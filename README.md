@@ -24,7 +24,7 @@ Projects have been arranged into subsections based on technology and language
 ### React/Typescript
 
 #### [Protolab Hub](https://github.com/Bakesu/Protolab-Hub)
-- ProtoLab Hub is a platform for monitoring and managing 3D printers, providing real-time data on printer status and availability.
+ProtoLab Hub is a platform for monitoring and managing 3D printers, providing real-time data on printer status and availability.
 - **Tools, Frameworks, & Practices:**
   - React
   - Redux
@@ -35,7 +35,7 @@ Projects have been arranged into subsections based on technology and language
   - Microsoft Azure
 
 #### [Project Showcase](https://github.com/Bakesu/React-Project-Showcase)
-- Stripped-down project showcase of some of my work with [specific technology or concept].
+Stripped-down project showcase of some work with React and API integration.
 - **Tools, Frameworks, & Practices:**
   - React
   - TypeScript
@@ -60,7 +60,7 @@ Projects have been arranged into subsections based on technology and language
 ### Go
 
 #### [Distributed Systems and Security](https://github.com/Bakesu/Distributed-Systems-Coursework)
-This project is displays coursework in implementing a distributed system and security components. It implements a peer-to-peer network with a blockchain ledger and RSA encryption for secure transactions. The main functionalities include:
+This project displays coursework implementing a distributed system and security components. It implements a peer-to-peer network with a blockchain, ledger and RSA encryption for secure transactions.
 - **Tools, Frameworks, & Practices:**
   - Go (Golang)
   - RSA Encryption
@@ -71,8 +71,8 @@ This project is displays coursework in implementing a distributed system and sec
 ### C#
 
 #### [AR-LLM Integration - Thesis](https://github.com/Bakesu/AR-LLM-Integration)
-  Master thesis project on combining Augmented Reality (AR) and GPT-based AI to create an 
-  virtual assistant that aids users in assembly tasks through context-aware visualizations. The user interacts with a AI assistant, which visualises instructions based on context clues.
+  Master thesis project on combining Augmented Reality (AR) and GPT-based AI to create a 
+  virtual assistant that aids users in assembly tasks through context-aware visualizations. The user interacts with an AI assistant, which visualises instructions based on context clues.
 - **Tools, Frameworks, & Practices:**
   - C#/.NET
   - RESTful API Integration
