@@ -1,20 +1,10 @@
 # Developer Portfolio
 
-Welcome to my developer portfolio! This repository showcases my projects, skills, and experience as a student and software developer.
+Welcome to my developer portfolio! This repository showcases my projects, skills, and experience as a student. If you have any questions, you can contact me through the links below.
 
 ## Table of Contents
-
-- [About Me](#about-me)
 - [Projects](#projects)
 - [Contact](#contact)
-
-## About Me
-Hi, I'm Bekir Tekmen, a passionate Cand.Scient in IT-Product Development. I specialize in software development, product innovation, and creating research-driven tech solutions.
-
-I believe in building meaningful, user-centered products that solve real-world problems. My approach is both structured and iterative—whether I'm prototyping, developing software, or tackling a complex system design, I always prioritize delivering high-quality, scalable, and efficient solutions. Agile methodologies, user-focused design, and continuous learning drive my development process.
-
-I'm experienced with a range of technologies, including Java, C#, TypeScript, React, .NET, and Go for full-stack and distributed systems. I'm also passionate about modern engineering practices like CI/CD, Git workflows, DevOps, and Cloud Computing, which help me create robust and reliable applications. My portfolio here reflects a diverse set of projects—from cloud-based solutions to software prototypes and cutting-edge research initiatives.
-This repository showcases software prototypes, cloud-based solutions, and research projects, reflecting my ability to design and implement innovative IT solutions.
 
 ## Projects
 Projects have been arranged into subsections based on technology and language
@@ -33,17 +23,6 @@ ProtoLab Hub is a platform for monitoring and managing 3D printers, providing re
   - Express
   - MongoDB
   - Microsoft Azure
-
-#### [Project Showcase](https://github.com/Bakesu/React-Project-Showcase)
-Stripped-down project showcase of some work with React and API integration.
-- **Tools, Frameworks, & Practices:**
-  - React
-  - TypeScript
-  - API Integration
-  - Agile Development
-  - Vercel
-  - Git
-
 ### Java
 
 #### [Software Design & Architecture](https://github.com/Bakesu/software-design-architecture)
